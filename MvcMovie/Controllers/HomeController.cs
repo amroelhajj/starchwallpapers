@@ -1,6 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MvcMovie.Models;
+using MVCVideoGuide.Data;
+using MVCVideoGuide.Data.Entities;
 
 namespace MvcMovie.Controllers;
 
@@ -8,9 +10,12 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    private readonly VideoDbContext _context;
+
+    public HomeController(ILogger<HomeController> logger, VideoDbContext context)
     {
         _logger = logger;
+        _context = context;
     }
 
     public IActionResult Index()
@@ -22,7 +27,13 @@ public class HomeController : Controller
     {
         return View();
     }
-    
+
+    public IActionResult ShowProducts()
+    {
+        List<Product> result = _context.Products.OrderBy(p => p.Cost).ToList();
+        return View(result);
+    }
+
     public IActionResult About()
     {
         return View();
