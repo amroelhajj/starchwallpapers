@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj": {}
+    "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj": {
+    "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj",
-        "packagesPath": "/home/patu/.nuget/packages/",
-        "outputPath": "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/obj/",
+        "projectPath": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\0014a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/patu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\0014a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,6 +53,16 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -68,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
