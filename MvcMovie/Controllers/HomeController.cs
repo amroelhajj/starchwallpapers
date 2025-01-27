@@ -39,6 +39,20 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet]
+    public IActionResult AddProduct()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult AddProduct(Product product)
+    {
+        _context.Products.Add(product);
+        _context.SaveChanges();
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

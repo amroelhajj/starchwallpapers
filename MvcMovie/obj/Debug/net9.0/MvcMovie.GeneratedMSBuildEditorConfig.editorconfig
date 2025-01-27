@@ -32,7 +32,15 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< Updated upstream
 [C:/Users/nicol/Documents/GitHub/starchwallpapers.github.io/MvcMovie/Views/Home/Index.cshtml]
+=======
+[C:/Users/0014a/OneDrive/Dokumenter/GitHub/starchwallpapers.github.io/MvcMovie/Views/Home/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0014a/OneDrive/Dokumenter/GitHub/starchwallpapers.github.io/MvcMovie/Views/Home/Index.cshtml]
+>>>>>>> Stashed changes
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
