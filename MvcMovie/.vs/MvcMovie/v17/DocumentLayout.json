@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\0014a\\onedrive\\dokumenter\\github\\starchwallpapers.github.io\\mvcmovie\\wwwroot\\js\\fetchapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:wwwroot\\js\\fetchapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\0014a\\onedrive\\dokumenter\\github\\starchwallpapers.github.io\\mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\0014a\\onedrive\\dokumenter\\github\\starchwallpapers.github.io\\mvcmovie\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -41,24 +49,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\AddProduct.cshtml",
-              "ToolTip": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\AddProduct.cshtml",
-              "RelativeToolTip": "Views\\Home\\AddProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T08:24:00.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -67,11 +62,51 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-27T08:22:41.271Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\AddProduct.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T08:24:00.053Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fetchAPI.js",
+              "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\wwwroot\\js\\fetchAPI.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\fetchAPI.js",
+              "ToolTip": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\wwwroot\\js\\fetchAPI.js",
+              "RelativeToolTip": "wwwroot\\js\\fetchAPI.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-27T09:22:38.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T09:20:05.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -83,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -95,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ShowProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Views\\Home\\ShowProducts.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ShowProducts.cshtml",
@@ -107,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Products.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Products.sql",
@@ -116,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -128,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "VideoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\0014a\\OneDrive\\Dokumenter\\GitHub\\starchwallpapers.github.io\\MvcMovie\\Data\\VideoDbContext.cs",
               "RelativeDocumentMoniker": "Data\\VideoDbContext.cs",
