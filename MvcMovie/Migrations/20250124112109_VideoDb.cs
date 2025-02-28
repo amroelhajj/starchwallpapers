@@ -23,6 +23,18 @@ namespace MvcMovie.Migrations
                 {
                     table.PrimaryKey("PK_Orders", x => x.Id);
                 });
+            migrationBuilder.CreateTable(
+                name: "People",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_People", x => x.Id);
+                });
 
             migrationBuilder.CreateTable(
                 name: "Products",

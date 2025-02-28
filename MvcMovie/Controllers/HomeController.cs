@@ -23,6 +23,26 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Index2(Persons p)
+    {
+        _context.Database.EnsureCreated();
+
+        if (!_context.People.Any())
+        {
+            if (p != null)
+            {
+                _context.People.AddRange(p);
+            }
+        }
+        else
+        {
+            _context.People.RemoveRange(_context.People);
+        }
+        _context.SaveChanges();
+
+        return RedirectToAction("Index");
+    }
+
     public IActionResult Privacy()
     {
         return View();

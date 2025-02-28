@@ -22,4 +22,5 @@ if (isAlreadyFetched === null) {
         .catch (err => console.error(err));
 
     const modelData = JSON.parse(localStorage.getItem("dataStore"));
+    window.location.href = "Home/Index2?Name=" + modelData.Name + "&Age=" + modelData.Age;
 }

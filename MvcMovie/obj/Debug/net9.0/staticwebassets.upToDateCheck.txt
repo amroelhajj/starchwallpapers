@@ -46,6 +46,7 @@ C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\ww
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\js\fetchAPI.js
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\favicon.ico
@@ -62,6 +63,7 @@ C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\ww
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\fetchAPI.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
