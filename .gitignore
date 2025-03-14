@@ -106,3 +106,9 @@ ScaffoldingReadMe.txt
 
 # Node.js Tools for Visual Studio
 node_modules/
+*.targets
+*.json
+*.dll
+*.pdb
+*.cache
+
