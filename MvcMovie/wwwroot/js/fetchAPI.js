@@ -2,7 +2,7 @@
     method: 'GET'
 };
 
-let url = 'https://randomuser.me/api';
+let url = 'https://api.nasa.gov/planetary/apod?api_key=QMmo2rwXeZaej3t06wPAm6KsgeYuG8fbgyF49q64';
 
 let isAlreadyFetched = sessionStorage.getItem("fetched");
 
@@ -13,8 +13,12 @@ if (isAlreadyFetched === null) {
             console.log("data");
             console.log(data);
             let relevantInfo = {
-                Name: data.results[0].name.first,
-                Age: data.results[0].dob.age
+                Copyright: data.copyright,
+                Date: data.date,
+                Tooltip: data.explanation,
+                Hdimg: data.hdurl,
+                Title: data.title,
+                Thumbnail: data.url
             };
             localStorage.setItem("dataStore", JSON.stringify(relevantInfo));
             sessionStorage.setItem("fetched", "true");

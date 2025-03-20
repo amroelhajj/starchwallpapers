@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MvcMovie.Models;
 using MVCVideoGuide.Data;
 using MVCVideoGuide.Data.Entities;
@@ -41,6 +42,12 @@ public class HomeController : Controller
         _context.SaveChanges();
 
         return RedirectToAction("Index");
+    }
+
+    public IActionResult ShowNASA()
+    {
+        List<NASA> result = _context.NASAIotd.OrderByDescending(p => p.Id).Take(5).ToList();
+        return View(result);
     }
 
     public IActionResult Privacy()

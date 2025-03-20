@@ -16,6 +16,7 @@ namespace MVCVideoGuide.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Persons> People { get; set; }
+        public DbSet<NASA> NASAIotd { get; set; }
 
         //public DbSet<OrderProduct> OrderProduts { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

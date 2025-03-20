@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj": {}
+    "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj": {
+    "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/MvcMovie.csproj",
-        "packagesPath": "/home/patu/.nuget/packages/",
-        "outputPath": "/home/patu/Asiakirjat/GitHub/StarchWallpapers/MvcMovie/obj/",
+        "projectPath": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/patu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,19 +50,23 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -78,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
