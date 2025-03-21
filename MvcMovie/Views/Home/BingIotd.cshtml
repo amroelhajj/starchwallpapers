@@ -1,0 +1,15 @@
+﻿@model List<Bing>
+
+@{
+    ViewData["Title"] = "Bing Image of the Day";
+}
+
+<h1>@ViewData["Title"]</h1>
+<h2>Shown are the 5 latest images!</h2>
+
+@foreach (Bing item in Model) {
+    <h2>@item.Title</h2>
+    <a href="@item.Url" target="_blank"><img src="@item.Url" alt="Bing Image" height="400px" /></a>
+    <h3>@item.Date</h3>
+    <p>Copyright: @item.Copyright</p>
+}

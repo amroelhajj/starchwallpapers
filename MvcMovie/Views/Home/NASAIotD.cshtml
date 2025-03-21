@@ -1,14 +1,17 @@
-﻿
-@model List<NASA>
+﻿@model List<NASA>
 
-<h1>Here is NASA's Image of the Day!</h1>
-<ul>
-    @foreach (NASA item in Model) {
-        <li>
-            <h2>@item.Title</h2>
-            <a href="@item.Hdimg"><img src="@item.Thumbnail" /></a>
-            <p>@item.Tooltip</p>
-            <p>Copyright: @item.Copyright</p>
-        </li>
-    }
-</ul>
+@{
+    ViewData["Title"] = "NASA Image of the Day";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+@foreach (NASA item in Model)
+{
+    <h2>@item.Title</h2>
+    <a href="@item.Hdimg" target="_blank"><img src="@item.Thumbnail" alt="NASA Image" height="400px" /></a>
+    <h3>@item.Date</h3>
+    <p>@item.Tooltip</p>
+    <p>Copyright: @item.Copyright</p>
+}

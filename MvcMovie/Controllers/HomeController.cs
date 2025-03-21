@@ -64,9 +64,35 @@ public class HomeController : Controller
         return RedirectToAction("Index");
     }
 
-    public IActionResult ShowNASA()
+    public IActionResult Index4(Bing p)
     {
-        List<NASA> result = _context.NASAIotd.OrderByDescending(p => p.Id).Take(5).ToList();
+        _context.Database.EnsureCreated();
+
+        if (!_context.BingIotd.Any())
+        {
+            if (p != null)
+            {
+                _context.BingIotd.AddRange(p);
+            }
+        }
+        else
+        {
+            _context.BingIotd.RemoveRange(_context.BingIotd);
+        }
+        _context.SaveChanges();
+
+        return RedirectToAction("Index");
+    }
+
+    public IActionResult NASAIotd()
+    {
+        List<NASA> result = _context.NASAIotd.OrderBy(p => p.Id).ToList();
+        return View(result);
+    }
+
+    public IActionResult BingIotd()
+    {
+        List<Bing> result = _context.BingIotd.OrderBy(p => p.Id).ToList();
         return View(result);
     }
 

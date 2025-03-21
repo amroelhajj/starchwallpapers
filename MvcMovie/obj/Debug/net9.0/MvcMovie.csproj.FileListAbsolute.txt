@@ -675,11 +675,9 @@ C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\stati
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
-C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\qspldxm5cp-shkgw3bgrv.gz
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\bin\Debug\net9.0\appsettings.json
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\bin\Debug\net9.0\MvcMovie.staticwebassets.runtime.json
@@ -914,3 +912,5 @@ C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\ob
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\obj\Debug\net9.0\compressed\qspldxm5cp-nttaz0b5ap.gz
+C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\qspldxm5cp-430pqd1vz3.gz
