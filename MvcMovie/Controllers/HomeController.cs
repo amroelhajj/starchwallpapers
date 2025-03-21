@@ -44,6 +44,26 @@ public class HomeController : Controller
         return RedirectToAction("Index");
     }
 
+    public IActionResult Index3(NASA p)
+    {
+        _context.Database.EnsureCreated();
+
+        if (!_context.NASAIotd.Any())
+        {
+            if (p != null)
+            {
+                _context.NASAIotd.AddRange(p);
+            }
+        }
+        else
+        {
+            _context.NASAIotd.RemoveRange(_context.NASAIotd);
+        }
+        _context.SaveChanges();
+
+        return RedirectToAction("Index");
+    }
+
     public IActionResult ShowNASA()
     {
         List<NASA> result = _context.NASAIotd.OrderByDescending(p => p.Id).Take(5).ToList();
