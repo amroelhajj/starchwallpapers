@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\wwwroot\\js\\fetchapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:wwwroot\\js\\fetchapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\views\\home\\bingiotd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:views\\home\\bingiotd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\data\\entities\\bing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:data\\entities\\bing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\views\\home\\nasaiotd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:views\\home\\nasaiotd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\data\\videodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:data\\videodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\data\\entities\\nasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +21,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\wwwroot\\js\\fetchapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:wwwroot\\js\\fetchapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\data\\entities\\bing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:data\\entities\\bing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\data\\videodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|solutionrelative:data\\videodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8B0C8E-521B-42C3-A8B0-34B0E7096ED9}|MvcMovie.csproj|c:\\users\\alvar\\documents\\github\\starchwallpapers\\mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -75,46 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BingIotd.cshtml",
-              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\BingIotd.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\BingIotd.cshtml",
-              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\BingIotd.cshtml",
-              "RelativeToolTip": "Views\\Home\\BingIotd.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T19:46:08.617Z",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-22T22:53:47.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NASAIotd.cshtml",
-              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\NASAIotd.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\NASAIotd.cshtml",
-              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\NASAIotd.cshtml",
-              "RelativeToolTip": "Views\\Home\\NASAIotd.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T15:27:58.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VideoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Data\\VideoDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\VideoDbContext.cs",
-              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Data\\VideoDbContext.cs",
-              "RelativeToolTip": "Data\\VideoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T18:42:47.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -122,12 +100,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T17:38:35.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T17:38:35.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -139,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Bing.cs",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Data\\Entities\\Bing.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Bing.cs",
@@ -147,12 +124,11 @@
               "RelativeToolTip": "Data\\Entities\\Bing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T17:10:28.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T17:10:28.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "NASA.cs",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Data\\Entities\\NASA.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\NASA.cs",
@@ -165,20 +141,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "fetchAPI.js",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\js\\fetchAPI.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\fetchAPI.js",
               "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\js\\fetchAPI.js",
               "RelativeToolTip": "wwwroot\\js\\fetchAPI.js",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-27T09:22:38.821Z",
+              "WhenOpened": "2025-01-27T09:22:38.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwFgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:44:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BingIotd.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\BingIotd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BingIotd.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\BingIotd.cshtml",
+              "RelativeToolTip": "Views\\Home\\BingIotd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T19:46:08.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NASAIotd.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\NASAIotd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NASAIotd.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\NASAIotd.cshtml",
+              "RelativeToolTip": "Views\\Home\\NASAIotd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAADcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T15:27:58.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "VideoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Data\\VideoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\VideoDbContext.cs",
+              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Data\\VideoDbContext.cs",
+              "RelativeToolTip": "Data\\VideoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:42:47.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -190,20 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwFgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T11:44:45.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

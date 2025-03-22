@@ -29,3 +29,54 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.wallpaper-container {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 8px;
+    border: 3px solid transparent;
+    transition: border 0.2s ease;
+}
+
+.wallpaper-wrapper { /*Wrapper der sikrer at billedet forbliver centreret når det zoomer ind og få en border.*/
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+    .wallpaper-wrapper img {
+        width: 100%;
+        display: block;
+        transition: transform 0.2s ease, filter 0.2s ease;
+        border-radius: 8px;
+    }
+
+.wallpaper-container:hover { /*Grænse bliver synlig.*/
+    border-color: #314ec1;
+}
+
+    .wallpaper-container:hover .wallpaper-wrapper img { /*Effekter på selve billedet.*/
+        transform: scale(1.03);
+        filter: blur(2px);
+    }
+
+.overlay-text { /*Overlay tekst style, men den er usynlig indtil hover.*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    text-align: center;
+    background: #314ec199;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.wallpaper-container:hover .overlay-text { /*Tekst bliver synlig når on hover.*/
+    opacity: 1;
+}

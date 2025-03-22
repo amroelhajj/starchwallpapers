@@ -600,7 +600,6 @@ C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\MvcMo
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\scopedcss\bundle\MvcMovie.styles.css
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-b9sayid5wm.gz
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\s4h06sbw6r-61n19gt1b8.gz
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\uppno6xyn3-wjvb874v04.gz
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\vfzhwv1cwr-23lo21d7tx.gz
@@ -914,3 +913,7 @@ C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\ob
 C:\Users\0014a\OneDrive\Dokumenter\GitHub\starchwallpapers.github.io\MvcMovie\obj\Debug\net9.0\compressed\qspldxm5cp-nttaz0b5ap.gz
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\qspldxm5cp-430pqd1vz3.gz
+C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\d2bmwa51in-ktuhdgfe3s.gz
+C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\c5g7w16p0e-8uuri6g1pv.gz
+C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-rjjq3byisu.gz
+C:\Users\alvar\Documents\GitHub\starchwallpapers\MvcMovie\obj\Debug\net9.0\compressed\0uigbaf416-och5vkd06w.gz

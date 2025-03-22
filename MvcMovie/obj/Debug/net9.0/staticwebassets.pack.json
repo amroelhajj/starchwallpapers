@@ -13,12 +13,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Microsoft_Bing_logo.svg",
+      "PackagePath": "staticwebassets\\images\\Microsoft_Bing_logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\NASA_logo.svg",
+      "PackagePath": "staticwebassets\\images\\NASA_logo.svg"
+    },
+    {
       "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Starch.svg",
       "PackagePath": "staticwebassets\\images\\Starch.svg"
     },
     {
       "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\StarchWallpapers.svg",
       "PackagePath": "staticwebassets\\images\\StarchWallpapers.svg"
+    },
+    {
+      "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\open_link.svg",
+      "PackagePath": "staticwebassets\\images\\open_link.svg"
     },
     {
       "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\js\\fetchAPI.js",
