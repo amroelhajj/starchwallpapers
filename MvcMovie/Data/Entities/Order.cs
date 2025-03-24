@@ -4,6 +4,6 @@ namespace MVCVideoGuide.Data.Entities
     {
         public int Id { get; set; }
         public DateTime CreatedDate { get; set; }
-        public ICollection<OrderProduct> Items { get; set; }
+        public User User { get; set; }
     }
 }

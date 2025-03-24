@@ -59,7 +59,7 @@ namespace MvcMovie.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "People",
+                name: "Users",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -87,7 +87,7 @@ namespace MvcMovie.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "OrderProduct",
+                name: "OrderProducts",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -134,10 +134,10 @@ namespace MvcMovie.Migrations
                 name: "NASAIotd");
 
             migrationBuilder.DropTable(
-                name: "OrderProduct");
+                name: "OrderProducts");
 
             migrationBuilder.DropTable(
-                name: "People");
+                name: "Users");
 
             migrationBuilder.DropTable(
                 name: "Orders");

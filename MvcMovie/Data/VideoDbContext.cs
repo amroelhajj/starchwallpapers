@@ -15,11 +15,11 @@ namespace MVCVideoGuide.Data
 
         public DbSet<Order> Orders { get; set; }
         public DbSet<Product> Products { get; set; }
-        public DbSet<Persons> People { get; set; }
+        public DbSet<User> Users { get; set; }
         public DbSet<NASA> NASAIotd { get; set; }
         public DbSet<Bing> BingIotd { get; set; }
+        public DbSet<OrderProduct> OrderProducts { get; set; }
 
-        //public DbSet<OrderProduct> OrderProduts { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

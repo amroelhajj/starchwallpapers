@@ -24,21 +24,21 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Index2(Persons p)
+    public IActionResult Index2(User p)
     {
         _context.Database.EnsureCreated();
 
-        if (!_context.People.Any())
+        if (!_context.Users.Any())
         {
             if (p != null)
             {
-                _context.People.AddRange(p);
+                _context.Users.AddRange(p);
             }
         }
-        else
-        {
-            _context.People.RemoveRange(_context.People);
-        }
+        //else
+        //{
+        //    _context.Users.RemoveRange(_context.Users);
+        //}
         _context.SaveChanges();
 
         return RedirectToAction("Index");
@@ -55,10 +55,10 @@ public class HomeController : Controller
                 _context.NASAIotd.AddRange(p);
             }
         }
-        else
-        {
-            _context.NASAIotd.RemoveRange(_context.NASAIotd);
-        }
+        //else
+        //{
+        //    _context.NASAIotd.RemoveRange(_context.NASAIotd);
+        //}
         _context.SaveChanges();
 
         return RedirectToAction("Index");
@@ -75,10 +75,10 @@ public class HomeController : Controller
                 _context.BingIotd.AddRange(p);
             }
         }
-        else
-        {
-            _context.BingIotd.RemoveRange(_context.BingIotd);
-        }
+        //else
+        //{
+        //    _context.BingIotd.RemoveRange(_context.BingIotd);
+        //}
         _context.SaveChanges();
 
         return RedirectToAction("Index");

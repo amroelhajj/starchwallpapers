@@ -133,7 +133,7 @@ namespace MvcMovie.Migrations
                     b.ToTable("OrderProduct");
                 });
 
-            modelBuilder.Entity("MVCVideoGuide.Data.Entities.Persons", b =>
+            modelBuilder.Entity("MVCVideoGuide.Data.Entities.User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -150,7 +150,7 @@ namespace MvcMovie.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("People");
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("MVCVideoGuide.Data.Entities.Product", b =>
