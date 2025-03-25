@@ -18,7 +18,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: image("~/images/Neitvuori.jpeg");
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -37,6 +38,7 @@ body {
     border-radius: 8px;
     border: 3px solid transparent;
     transition: border 0.2s ease;
+    user-select: none;
 }
 
 .wallpaper-wrapper { /*Wrapper der sikrer at billedet forbliver centreret når det zoomer ind og få en border.*/
@@ -45,12 +47,12 @@ body {
     height: 100%;
 }
 
-    .wallpaper-wrapper img {
-        width: 100%;
-        display: block;
-        transition: transform 0.2s ease, filter 0.2s ease;
-        border-radius: 8px;
-    }
+.wallpaper-wrapper img {
+    width: 100%;
+    display: block;
+    transition: transform 0.2s ease, filter 0.2s ease;
+    border-radius: 8px;
+}
 
 .wallpaper-container:hover { /*Grænse bliver synlig.*/
     border-color: #314ec1;
@@ -84,4 +86,10 @@ body {
 .productcontainer {
     display: grid;
     grid-template-columns: auto auto auto auto;
+}
+
+.slogan {
+    vertical-align: central;
+    text-align: center;
+    font-size: 50px;
 }

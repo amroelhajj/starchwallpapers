@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VH6vw8AWdTRBJJ9ySCK35N6yny4remc94lOYxjvF5yQ=",
+  "Hash": "0PZHO+vArLgUw6f83UtyZFajkeZ/2iyFSRbzdMM/Ryo=",
   "Source": "MvcMovie",
   "BasePath": "_content/MvcMovie",
   "Mode": "Default",
@@ -563,12 +563,12 @@
       "OriginalItemSpec": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-lzd8zmsaym.gz",
+      "Identity": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-v1hfx9fz06.gz",
       "SourceId": "MvcMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MvcMovie",
-      "RelativePath": "css/site#[.{fingerprint=lzd8zmsaym}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=v1hfx9fz06}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -577,8 +577,8 @@
       "RelatedAsset": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "07oy1rcbr7",
-      "Integrity": "BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM=",
+      "Fingerprint": "35dpern9ip",
+      "Integrity": "x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\css\\site.css"
@@ -1543,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lzd8zmsaym",
-      "Integrity": "L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ=",
+      "Fingerprint": "v1hfx9fz06",
+      "Integrity": "7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1611,6 +1611,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\NASA_logo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Neitvuori.jpeg",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "images/Neitvuori#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7od02l4qqy",
+      "Integrity": "yUQ80eiPJ9qT1HvLDMlqH+sY+0t4s9hY9+WddmuUI9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Neitvuori.jpeg"
     },
     {
       "Identity": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\open_link.svg",
@@ -2981,12 +3002,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-lzd8zmsaym.gz",
+      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-v1hfx9fz06.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001237623762"
+          "Quality": "0.001141552511"
         }
       ],
       "ResponseHeaders": [
@@ -2996,15 +3017,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "807"
+          "Value": "875"
         },
         {
           "Name": "ETag",
-          "Value": "\"BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM=\""
+          "Value": "\"x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 17:08:45 GMT"
+          "Value": "Tue, 25 Mar 2025 21:12:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3024,13 +3045,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ=\""
+          "Value": "W/\"7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ="
+          "Value": "sha256-7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE="
         }
       ]
     },
@@ -3045,7 +3066,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2066"
+          "Value": "2218"
         },
         {
           "Name": "Content-Type",
@@ -3053,11 +3074,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ=\""
+          "Value": "\"7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 17:08:45 GMT"
+          "Value": "Tue, 25 Mar 2025 21:12:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3067,13 +3088,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ="
+          "Value": "sha256-7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-lzd8zmsaym.gz",
+      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-v1hfx9fz06.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3082,7 +3103,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "807"
+          "Value": "875"
         },
         {
           "Name": "Content-Type",
@@ -3090,11 +3111,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM=\""
+          "Value": "\"x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 17:08:45 GMT"
+          "Value": "Tue, 25 Mar 2025 21:12:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3112,18 +3133,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM="
+          "Value": "sha256-x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE="
         }
       ]
     },
     {
-      "Route": "css/site.lzd8zmsaym.css",
-      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-lzd8zmsaym.gz",
+      "Route": "css/site.v1hfx9fz06.css",
+      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-v1hfx9fz06.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001237623762"
+          "Quality": "0.001141552511"
         }
       ],
       "ResponseHeaders": [
@@ -3133,15 +3154,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "807"
+          "Value": "875"
         },
         {
           "Name": "ETag",
-          "Value": "\"BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM=\""
+          "Value": "\"x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 17:08:45 GMT"
+          "Value": "Tue, 25 Mar 2025 21:12:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3161,13 +3182,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ=\""
+          "Value": "W/\"7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lzd8zmsaym"
+          "Value": "v1hfx9fz06"
         },
         {
           "Name": "label",
@@ -3175,12 +3196,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ="
+          "Value": "sha256-7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE="
         }
       ]
     },
     {
-      "Route": "css/site.lzd8zmsaym.css",
+      "Route": "css/site.v1hfx9fz06.css",
       "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3190,7 +3211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2066"
+          "Value": "2218"
         },
         {
           "Name": "Content-Type",
@@ -3198,11 +3219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ=\""
+          "Value": "\"7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 17:08:45 GMT"
+          "Value": "Tue, 25 Mar 2025 21:12:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3212,7 +3233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lzd8zmsaym"
+          "Value": "v1hfx9fz06"
         },
         {
           "Name": "label",
@@ -3220,13 +3241,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L6xATEUFgZP5N9IMPqMw+AafV6J/r0ox3iXdtkhVKGQ="
+          "Value": "sha256-7cYazD9vSaPRxbXZXfzrkMp3FVw173KvI89K9rYKpqE="
         }
       ]
     },
     {
-      "Route": "css/site.lzd8zmsaym.css.gz",
-      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-lzd8zmsaym.gz",
+      "Route": "css/site.v1hfx9fz06.css.gz",
+      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\euikqtqh4l-v1hfx9fz06.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3235,7 +3256,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "807"
+          "Value": "875"
         },
         {
           "Name": "Content-Type",
@@ -3243,11 +3264,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM=\""
+          "Value": "\"x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 17:08:45 GMT"
+          "Value": "Tue, 25 Mar 2025 21:12:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3265,7 +3286,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lzd8zmsaym"
+          "Value": "v1hfx9fz06"
         },
         {
           "Name": "label",
@@ -3273,7 +3294,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BOTFgtuMUnruyqG3vK0PuQabNDAfoDwvYsU3CCXssdM="
+          "Value": "sha256-x9joPCfPKTE9w5yiJI2qCdZvwcwu0cayqqaccNPiKDE="
         }
       ]
     },
@@ -4168,6 +4189,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-cTIcfwpKE80J/J/MM1L50sNe+nNdZ7eA4lNujxTE2eY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Neitvuori.7od02l4qqy.jpeg",
+      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Neitvuori.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7021508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yUQ80eiPJ9qT1HvLDMlqH+sY+0t4s9hY9+WddmuUI9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Aug 2023 06:06:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7od02l4qqy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Neitvuori.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yUQ80eiPJ9qT1HvLDMlqH+sY+0t4s9hY9+WddmuUI9E="
+        }
+      ]
+    },
+    {
+      "Route": "images/Neitvuori.jpeg",
+      "AssetFile": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Neitvuori.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7021508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yUQ80eiPJ9qT1HvLDMlqH+sY+0t4s9hY9+WddmuUI9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Aug 2023 06:06:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yUQ80eiPJ9qT1HvLDMlqH+sY+0t4s9hY9+WddmuUI9E="
         }
       ]
     },

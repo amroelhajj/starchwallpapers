@@ -103,7 +103,7 @@ public class HomeController : Controller
 
     public IActionResult ShowProducts()
     {
-        List<Product> result = _context.Products.OrderBy(p => p.Cost).ToList();
+        List<Product> result = _context.Products.OrderBy(p => p.Id).ToList();
         return View(result);
     }
 

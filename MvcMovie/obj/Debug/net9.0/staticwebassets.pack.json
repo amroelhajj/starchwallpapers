@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\NASA_logo.svg"
     },
     {
+      "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Neitvuori.jpeg",
+      "PackagePath": "staticwebassets\\images\\Neitvuori.jpeg"
+    },
+    {
       "Id": "C:\\Users\\alvar\\Documents\\GitHub\\starchwallpapers\\MvcMovie\\wwwroot\\images\\Starch.svg",
       "PackagePath": "staticwebassets\\images\\Starch.svg"
     },
