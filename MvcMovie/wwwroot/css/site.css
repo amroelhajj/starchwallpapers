@@ -80,3 +80,8 @@ body {
 .wallpaper-container:hover .overlay-text { /*Tekst bliver synlig når on hover.*/
     opacity: 1;
 }
+
+.productcontainer {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}

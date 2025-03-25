@@ -1,13 +1,22 @@
 ﻿<h2>Type in your information: </h2>
 
 <form method="post">
-    <label> Product Name: </label>
+    <label> Wallpaper Title: </label>
     <br />
-    <input type="text" name="Name" />
+    <input type="text" name="Item" />
     <br />
-    <label> Product Cost: </label>
+    <label> Wallpaper Cost (0 = Free): </label>
     <br />
     <input type="text" name="Cost" />
     <br />
-    <input type="submit" value="Add Product" />
+    <label> Wallpaper URL: </label>
+    <br />
+    <input type="text" name="Img" />
+    <br />
+    <label> Wallpaper URL: </label>
+    <br />
+    <label for="Tag"><input type="text" value="#" style="width:18px;" readonly></label><input type="text" id="Tag" name="Tag" />
+    <br />
+    <br />
+    <input type="submit" value="Submit" />
 </form>

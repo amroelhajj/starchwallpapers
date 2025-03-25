@@ -1,12 +1,31 @@
-﻿
-@model List<Product>
+﻿@model List<Product>
 
-<h1>Here are the available products: @Model.Count</h1>
+@{
+    ViewData["Title"] = "Browse Wallpapers";
+}
 
-<ul>
-    @foreach (Product item in Model) {
-        <li> 
-            <p>@item.Item   @item.Cost</p> 
-        </li>
-    }
-</ul>
+<h1>Browse between @Model.Count of our curated wallpapers!</h1>
+<div>
+    <h3>Filter by Tag</h3>
+    <div>
+        <label for="FilterTag"><input type="text" value="#" style="width:18px;" readonly></label>
+        <input type="text" id="FilterTag" name="FilterTag" style="width:100px;"></input><button>Submit</button>
+    </div>
+    <ul class="productcontainer">
+        @foreach (Product item in Model)
+        {
+            <li class="@item.Tag">
+                <h2>@item.Item</h2>
+                <div class="wallpaper-container">
+                    <div class="wallpaper-wrapper">
+                        <a href="@item.Img" target="_blank"><img src="@item.Img" alt="Image" height="400px"></a>
+                    </div>
+                    <div class="overlay-text"><a href="@item.Img" target="_blank" style="color: inherit; text-decoration: inherit;">Checkout <img src="~/images/open_link.svg" height="15px" style="vertical-align:middle;"></a></div>
+                </div>
+                <h4>#@item.Tag</h4>
+                <h4>Price: @item.Cost$</h4>
+            </li>
+            <br />
+        }
+    </ul>
+</div>
