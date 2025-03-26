@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="105.413"
+   height="105.413"
+   viewBox="0 0 27.890522 27.890524"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="StarchWallpapersSmall.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.0505737"
+     inkscape:cx="47.420356"
+     inkscape:cy="43.262412"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <pattern
+       xlink:href="#Strips1_1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern75"
+       patternTransform="matrix(4,0,0,4,-0.35728942,-0.52916719)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="10"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_1"
+       style="fill:#000000">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="11"
+         id="rect134" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         id="path39"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="M 438.25066,553.76374 H 1298.1212 V 755.15928 H 438.25066 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25">
+      <rect
+         style="fill:#ff0000;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect25-8"
+         width="78"
+         height="45.033199"
+         x="763.61322"
+         y="452.82422" />
+    </clipPath>
+    <pattern
+       xlink:href="#Wave"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2"
+       patternTransform="scale(1)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="24"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       id="Wave"
+       style="fill:#000000"
+       x="0"
+       y="0">
+      <g
+         id="wave_g"
+         style="display:inline">
+        <path
+           d="M 12,-2 C 9.1666695,-2 7.1679672,-0.56445187 5.4179687,0.68554687 3.6679703,1.9355456 2.1666645,3 0,3 V 5 C 2.8333305,5 4.8320328,3.5644519 6.5820312,2.3144531 8.3320297,1.0644544 9.8333355,0 12,0 14.166665,0 15.667971,1.0644544 17.417969,2.3144531 19.167967,3.5644519 21.166669,5 24,5 V 3 C 21.833335,3 20.332029,1.9355456 18.582031,0.68554687 16.832033,-0.56445189 14.833331,-2 12,-2 Z"
+           id="path3" />
+        <path
+           d="M 12,3 C 9.1666695,3 7.1679672,4.4355481 5.4179687,5.6855469 3.6679703,6.9355456 2.1666645,8 0,8 v 2 C 2.8333305,10 4.8320328,8.5644519 6.5820312,7.3144531 8.3320297,6.0644544 9.8333355,5 12,5 14.166665,5 15.667971,6.0644544 17.417969,7.3144531 19.167967,8.5644519 21.166669,10 24,10 V 8 C 21.833335,8 20.332029,6.9355456 18.582031,5.6855469 16.832033,4.4355481 14.833331,3 12,3 Z"
+           id="path4" />
+        <path
+           d="M 12,8 C 9.1666695,8 7.1679672,9.4355481 5.4179687,10.685547 3.6679703,11.935546 2.1666645,13 0,13 v 2 C 2.8333305,15 4.8320328,13.564452 6.5820312,12.314453 8.3320297,11.064454 9.8333355,10 12,10 c 2.166665,0 3.667971,1.064454 5.417969,2.314453 C 19.167967,13.564452 21.166669,15 24,15 V 13 C 21.833335,13 20.332029,11.935546 18.582031,10.685547 16.832033,9.4355481 14.833331,8 12,8 Z"
+           id="path5" />
+      </g>
+    </pattern>
+  </defs>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g1"
+     transform="translate(4.4070445)">
+    <path
+       d="m 11.059569,6.9849911 c 2.892774,0.3351385 4.947702,0.9613182 6.164784,1.8785393 1.234721,0.8995824 1.852081,2.2577756 1.852081,4.0745786 0,1.816803 -0.890763,3.289648 -2.672288,4.418536 -1.781526,1.128887 -4.145134,1.693331 -7.0908245,1.693331 -2.9456907,0 -5.2387434,-0.537986 -6.879158,-1.613957 C 0.81138782,16.34241 -1.8119812e-8,15.001856 -1.8119812e-8,13.414358 -1.8119812e-8,13.026303 0.20284694,12.832275 0.60854087,12.832275 H 6.0324923 c 0.3704162,0 0.6702769,0.114653 0.8995822,0.343958 0.4938883,0.476249 1.3493733,0.714374 2.5664551,0.714374 1.6756924,0 2.5135384,-0.255763 2.5135384,-0.76729 0,-0.3175 -0.264583,-0.564444 -0.793749,-0.740833 C 10.689153,12.188457 9.6396405,12.003249 8.0697814,11.82686 3.0779822,11.227139 0.58208257,9.3133216 0.58208257,6.0854089 0.58208257,4.2686057 1.384651,2.8045798 2.9897878,1.6933312 4.5949247,0.56444375 6.738047,1.9073486e-8 9.4191547,1.9073486e-8 12.117901,1.9073486e-8 14.296301,0.59090205 15.954355,1.7727061 c 1.658053,1.1641652 2.48708,2.3988858 2.48708,3.7041619 0,0.1763887 -0.06174,0.3174996 -0.185208,0.4233328 -0.105833,0.1058332 -0.255764,0.1587498 -0.449791,0.1587498 h -5.688535 c -0.317499,0 -0.590902,-0.1058332 -0.820207,-0.3174996 -0.423333,-0.3880551 -1.058332,-0.5820826 -1.9049976,-0.5820826 -1.1818041,0 -1.7727061,0.2469441 -1.7727061,0.7408324 0,0.264583 0.2293053,0.4762494 0.6879158,0.6349992 0.4586105,0.1411109 1.3758315,0.2910413 2.7516629,0.4497911 z"
+       id="text1"
+       style="font-size:26.4583px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';stroke-width:0.423333;stroke-linecap:round"
+       aria-label="STARCH"
+       sodipodi:nodetypes="ccssscssscssccscscscsscsscc" />
+    <path
+       d="m 14.247684,27.791826 h -1.749776 l -0.931333,-4.063997 c -0.122296,-0.479777 -0.225777,-0.978369 -0.310444,-1.495776 -0.07526,0.423333 -0.141111,0.752592 -0.197555,0.987777 -0.04704,0.225777 -0.399818,1.749776 -1.058333,4.571996 H 8.2504667 L 6.4442459,20.764498 h 1.4816655 l 1.0301103,4.543775 0.2257776,1.086554 c 0.094074,-0.451555 0.1834443,-0.888999 0.2681109,-1.312332 0.094074,-0.423333 0.4280366,-1.862665 1.0018878,-4.317997 h 1.650999 l 0.874888,3.739442 c 0.08467,0.272815 0.206963,0.90311 0.366889,1.890887 l 0.112889,-0.578555 0.282222,-1.142999 0.832555,-3.908775 h 1.509887 z"
+       id="text21"
+       style="font-size:14.1111px;line-height:0;font-family:'Syamala Ramana';-inkscape-font-specification:'Syamala Ramana, Normal';letter-spacing:5.29167px;fill:#3232c8;stroke-width:0.423333;stroke-linecap:round"
+       aria-label="WALLPAPERS"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <path
+       d="m 14.247684,27.791826 h -1.749776 l -0.931333,-4.063997 c -0.122296,-0.479777 -0.225777,-0.978369 -0.310444,-1.495776 -0.07526,0.423333 -0.141111,0.752592 -0.197555,0.987777 -0.04704,0.225777 -0.399818,1.749776 -1.058333,4.571996 H 8.2504667 L 6.4442459,20.764498 h 1.4816655 l 1.0301103,4.543775 0.2257776,1.086554 c 0.094074,-0.451555 0.1834443,-0.888999 0.2681109,-1.312332 0.094074,-0.423333 0.4280366,-1.862665 1.0018878,-4.317997 h 1.650999 l 0.874888,3.739442 c 0.08467,0.272815 0.206963,0.90311 0.366889,1.890887 l 0.112889,-0.578555 0.282222,-1.142999 0.832555,-3.908775 h 1.509887 z"
+       id="text2"
+       style="font-size:14.1111px;line-height:0;font-family:'Syamala Ramana';-inkscape-font-specification:'Syamala Ramana, Normal';letter-spacing:5.29167px;fill:url(#pattern75);stroke-width:0.423333;stroke-linecap:round"
+       aria-label="WALLPAPERS"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+</svg>

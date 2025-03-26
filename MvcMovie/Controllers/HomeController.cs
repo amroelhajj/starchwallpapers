@@ -48,18 +48,16 @@ public class HomeController : Controller
     {
         _context.Database.EnsureCreated();
 
-        if (!_context.NASAIotd.Any())
+        bool exists = _context.NASAIotd.Any(n => n.Date == p.Date); // Query der checker om datoen allerede eksisterer. Returnerer boolsk værdi.
+
+        if (!exists) // Hvis datoen allerede eksisterer i databasen sker intet.
         {
-            if (p != null)
-            {
-                _context.NASAIotd.AddRange(p);
-            }
+            _context.NASAIotd.Add(p);
+            _context.SaveChanges();
         }
-        //else
-        //{
-        //    _context.NASAIotd.RemoveRange(_context.NASAIotd);
-        //}
-        _context.SaveChanges();
+
+        //_context.NASAIotd.RemoveRange(_context.NASAIotd);
+        //_context.SaveChanges();
 
         return RedirectToAction("Index");
     }
@@ -68,18 +66,16 @@ public class HomeController : Controller
     {
         _context.Database.EnsureCreated();
 
-        if (!_context.BingIotd.Any())
+        bool exists = _context.BingIotd.Any(b => b.Date == p.Date); // Query der checker om datoen allerede eksisterer. Returnerer boolsk værdi.
+
+        if (!exists) // Hvis datoen allerede eksisterer i databasen sker intet.
         {
-            if (p != null)
-            {
-                _context.BingIotd.AddRange(p);
-            }
+            _context.BingIotd.Add(p);
+            _context.SaveChanges();
         }
-        //else
-        //{
-        //    _context.BingIotd.RemoveRange(_context.BingIotd);
-        //}
-        _context.SaveChanges();
+
+        //_context.BingIotd.RemoveRange(_context.BingIotd);
+        //_context.SaveChanges();
 
         return RedirectToAction("Index");
     }
