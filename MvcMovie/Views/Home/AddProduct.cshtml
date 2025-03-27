@@ -1,9 +1,16 @@
 ﻿@{
     ViewData["Title"] = "Submit Wallpapers";
 }
-<div>
-    <h1>@ViewData["Title"]</h1>
+
+<script src='~/js/site.js'></script>
+
+<div id="disclaimer" display:block;>
     <h3>Submitting requires admin privileges</h3>
+    <label>Username: </label><input id="username" /> <label>Password: </label><input id="password"/><button onclick="AdminLogin()">Login</button>
+</div>
+
+<div id="submit" style="display:none;">
+    <h1>@ViewData["Title"]</h1>
     <h2>Type in your information: </h2>
     <form method="post">
         <label> Wallpaper Title: </label>

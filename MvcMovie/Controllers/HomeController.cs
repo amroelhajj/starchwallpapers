@@ -82,13 +82,13 @@ public class HomeController : Controller
 
     public IActionResult NASAIotd()
     {
-        List<NASA> result = _context.NASAIotd.OrderBy(p => p.Id).ToList();
+        List<NASA> result = _context.NASAIotd.OrderByDescending(p => p.Id).ToList();
         return View(result);
     }
 
     public IActionResult BingIotd()
     {
-        List<Bing> result = _context.BingIotd.OrderBy(p => p.Id).ToList();
+        List<Bing> result = _context.BingIotd.OrderByDescending(p => p.Id).ToList();
         return View(result);
     }
 
