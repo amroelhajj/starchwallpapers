@@ -19,7 +19,6 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-image: image("~/images/Neitvuori.jpeg");
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -54,16 +53,16 @@ body {
     border-radius: 8px;
 }
 
-.wallpaper-container:hover { /*Grænse bliver synlig.*/
+.wallpaper-container:hover { /*Grænse bliver synlig on hover.*/
     border-color: #314ec1;
 }
 
-    .wallpaper-container:hover .wallpaper-wrapper img { /*Effekter på selve billedet.*/
+    .wallpaper-container:hover .wallpaper-wrapper img { /*Effekter på selve billedet. Hele wrapperen der er om billedet skaleres.*/
         transform: scale(1.03);
         filter: blur(2px);
     }
 
-.overlay-text { /*Overlay tekst style, men den er usynlig indtil hover.*/
+.overlay-text { /*Overlay tekst style, men den er usynlig indtil hover. Placeres i midten ved den absolutte position inde i dens parent.*/
     position: absolute;
     top: 50%;
     left: 50%;
@@ -83,12 +82,12 @@ body {
     opacity: 1;
 }
 
-.productcontainer {
+.productcontainer { /*Deler Browse/ShowProducts i et grid.*/
     display: grid;
     grid-template-columns: auto auto auto auto;
 }
 
-.slogan {
+.slogan { /*Forstørrer og centrerer slogan.*/
     vertical-align: central;
     text-align: center;
     font-size: 50px;

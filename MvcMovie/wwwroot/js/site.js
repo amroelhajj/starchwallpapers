@@ -3,14 +3,16 @@
 
 // Write your JavaScript code.
 
-function AdminLogin(){
+function AdminLogin() { // Admin login der for nu bare gemmer submission menuen indtil man skriver det rigtige login.
+    // Er enormt usikkert og kan nemt omgås i Inspect Element. Demonstrerer dog funktionaliteten.
     if (document.getElementById("username").value === "Admin") {
         document.getElementById("disclaimer").style.display = "none";
         document.getElementById("submit").style.display = "block";
     }
 }
 
-function FilterTags() {
+function FilterTags() { // Gemmer alt og finder derefter de rigtige wallpapers frem. 
+    // Gøres på denne måde så menuen ikke er helt tom som ved en tidligere afprøvet fremgang der til gengæld var mere effektiv.
     var tag = document.getElementById("FilterTag").value;
     var children = document.getElementById("productcontainer").children;
     for (var i = 0; i < children.length; i++) {
@@ -22,10 +24,10 @@ function FilterTags() {
     }
 }
 
-function ResetFilter(){
+function ResetFilter(){ // Resetter filtre og gør alt synligt igen. Rydder også tag-feltet.
     var children = document.getElementById("productcontainer").children;
     for (var i = 0; i < children.length; i++) {
         children[i].style.display = "grid";
     }
-    document.getElementById("FilterTag").value = "";
+    document.getElementById("FilterTag").value = ""; // Tag-feltet ryddes.
 }

@@ -9,6 +9,7 @@ namespace MvcMovie.Controllers;
 
 public class HomeController : Controller
 {
+    // Kontrollerer projektets views/undersider. Heriblandt også hentning af data fra databasen.
     private readonly ILogger<HomeController> _logger;
 
     private readonly VideoDbContext _context;

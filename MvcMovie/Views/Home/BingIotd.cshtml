@@ -7,7 +7,7 @@
     <h1><img src="~/images/Microsoft_Bing_logo.svg" height="42px" style="margin-right: 10px;" />Image of the Day</h1>
 
     <div>
-        @foreach (Bing item in Model)
+        @foreach (Bing item in Model) @*For hver entry i tabellen vises følgende.*@
         {
             <h2>@item.Title</h2>
             <div class="wallpaper-container">
