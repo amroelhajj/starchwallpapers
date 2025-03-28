@@ -4,17 +4,19 @@
     ViewData["Title"] = "Browse Wallpapers";
 }
 
+<script src='~/js/site.js'></script>
+
 <h1>Browse between @Model.Count of our curated wallpapers!</h1>
 <div>
     <h3>Filter by Tag</h3>
     <div>
         <label for="FilterTag"><input type="text" value="#" style="width:18px;" readonly></label>
-        <input type="text" id="FilterTag" name="FilterTag" style="width:100px;"></input><button>Submit</button>
+        <input type="text" id="FilterTag" name="FilterTag" style="width:100px;"></input><button onclick="FilterTags()">Submit</button><button onclick="ResetFilter()">Reset Filter</button>
     </div>
-    <div class="productcontainer">
+    <div id="productcontainer" class="productcontainer">
         @foreach (Product item in Model)
         {
-            <div class="@item.Tag">
+            <div class="@item.Tag" style="display:grid;">
                 <h2>@item.Item</h2>
                 <div class="wallpaper-container">
                     <div class="wallpaper-wrapper">
