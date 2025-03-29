@@ -7,5 +7,6 @@ namespace MVCVideoGuide.Data.Entities
         public double Cost { get; set; }
         public string Img { get; set; }
         public string Tag { get; set; }
+        public User User { get; set; }
     }
 }
