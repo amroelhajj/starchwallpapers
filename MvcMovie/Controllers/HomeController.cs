@@ -9,7 +9,7 @@ namespace MvcMovie.Controllers;
 
 public class HomeController : Controller
 {
-    // Kontrollerer projektets views/undersider. Heriblandt også hentning af data fra databasen.
+    // Kontrollerer projektets views/undersider. Heriblandt også hentning og gemning af data til og fra databasen.
     private readonly ILogger<HomeController> _logger;
 
     private readonly VideoDbContext _context;
@@ -20,7 +20,7 @@ public class HomeController : Controller
         _context = context;
     }
 
-    public IActionResult Index()
+    public IActionResult Index() // Returnerer blot View. Dvs. blot indholdet i den specifikke ViewComponent. Dette View'et specificeres af metodens navn.
     {
         return View();
     }
@@ -81,9 +81,9 @@ public class HomeController : Controller
         return RedirectToAction("Index");
     }
 
-    public IActionResult NASAIotd()
+    public IActionResult NASAIotd() // Henter og viser NASA billeder i rækkefølgen nyeste først.
     {
-        List<NASA> result = _context.NASAIotd.OrderByDescending(p => p.Id).ToList();
+        List<NASA> result = _context.NASAIotd.OrderByDescending(p => p.Id).ToList(); 
         return View(result);
     }
 
@@ -98,9 +98,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult ShowProducts()
+    public IActionResult ShowProducts() // Henter og viser Bing billeder i rækkefølgen nyeste først.
     {
-        List<Product> result = _context.Products.OrderBy(p => p.Id).ToList();
+        List<Product> result = _context.Products.OrderByDescending(p => p.Id).ToList();
         return View(result);
     }
 
@@ -118,9 +118,9 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult AddProduct(Product product)
     {
-        _context.Products.Add(product);
-        _context.SaveChanges();
-        return View();
+        _context.Products.Add(product); // Tilføjer objekt til tabel.
+        _context.SaveChanges(); // Gemmer ændringer til databasen.
+        return RedirectToAction("ShowProducts"); // Redirecter til browse efter tilføjelse af baggrund til databasen.
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
