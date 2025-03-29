@@ -3,9 +3,9 @@
 
 // Write your JavaScript code.
 
-function AdminLogin() { // Admin login der for nu bare gemmer submission menuen indtil man skriver det rigtige login.
+function Login() { // Simpel placeholder login der for nu bare gemmer submission menuen væk indtil man skriver det rigtige login.
     // Er enormt usikkert og kan nemt omgås i Inspect Element. Demonstrerer dog funktionaliteten.
-    if (document.getElementById("username").value === "Admin") {
+    if (document.getElementById("username").value === "User1" && document.getElementById("password").value === "password123") { // Username: User1 - Password: password123
         document.getElementById("disclaimer").style.display = "none";
         document.getElementById("submit").style.display = "block";
     }
